@@ -5,7 +5,6 @@
 Ethnicity, Parental level of education, Lunch and Test preparation course.
 
 ### **Major Steps involved:-**
-### **step1 :** Set up the github {Repository}
 * a)create new virtual environment and sync with your guthub repo
 * b)setup.py
 * c)requirements.txt and install all dependencies
