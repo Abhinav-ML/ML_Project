@@ -9,7 +9,7 @@ Ethnicity, Parental level of education, Lunch and Test preparation course.
 * b)setup.py
 * c)requirements.txt and install all dependencies
 * d) EDA, FeatureEnginnering and Model training done on jupyter notebook separately
-* e) implemented step d on VS Code in modular way
+* e) implemented all steps on VS Code in modular way
 * f) added custom exeption handling and logging concepts
 * g) exported output in artifacts folder and logs in log folder
 * h) created a simple Flask app for frontend
